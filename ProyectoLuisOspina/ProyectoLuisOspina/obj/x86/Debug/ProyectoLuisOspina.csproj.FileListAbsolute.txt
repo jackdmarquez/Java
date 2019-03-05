@@ -1,0 +1,14 @@
+C:\Users\Jack\AppData\Local\Temporary Projects\ProyectoLuisOspina\bin\Debug\ProyectoLuisOspina.exe
+C:\Users\Jack\AppData\Local\Temporary Projects\ProyectoLuisOspina\bin\Debug\ProyectoLuisOspina.pdb
+C:\Users\Jack\AppData\Local\Temporary Projects\ProyectoLuisOspina\obj\x86\Debug\ProyectoLuisOspina.Form1.resources
+C:\Users\Jack\AppData\Local\Temporary Projects\ProyectoLuisOspina\obj\x86\Debug\ProyectoLuisOspina.Properties.Resources.resources
+C:\Users\Jack\AppData\Local\Temporary Projects\ProyectoLuisOspina\obj\x86\Debug\ProyectoLuisOspina.csproj.GenerateResource.Cache
+C:\Users\Jack\AppData\Local\Temporary Projects\ProyectoLuisOspina\obj\x86\Debug\ProyectoLuisOspina.exe
+C:\Users\Jack\AppData\Local\Temporary Projects\ProyectoLuisOspina\obj\x86\Debug\ProyectoLuisOspina.pdb
+D:\info 2\ProyectoLuisOspina\ProyectoLuisOspina\obj\x86\Debug\ProyectoLuisOspina.exe
+D:\info 2\ProyectoLuisOspina\ProyectoLuisOspina\obj\x86\Debug\ProyectoLuisOspina.pdb
+D:\info 2\ProyectoLuisOspina\ProyectoLuisOspina\bin\Debug\ProyectoLuisOspina.exe
+D:\info 2\ProyectoLuisOspina\ProyectoLuisOspina\bin\Debug\ProyectoLuisOspina.pdb
+D:\info 2\ProyectoLuisOspina\ProyectoLuisOspina\obj\x86\Debug\ProyectoLuisOspina.Form1.resources
+D:\info 2\ProyectoLuisOspina\ProyectoLuisOspina\obj\x86\Debug\ProyectoLuisOspina.Properties.Resources.resources
+D:\info 2\ProyectoLuisOspina\ProyectoLuisOspina\obj\x86\Debug\ProyectoLuisOspina.csproj.GenerateResource.Cache

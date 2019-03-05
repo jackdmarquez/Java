@@ -1,0 +1,29 @@
+C:\Users\JHOPAN\Documents\Visual Studio 2010\Projects\ProyectoKarenB\ProyectoKarenB\bin\Debug\ProyectoKarenB.exe
+C:\Users\JHOPAN\Documents\Visual Studio 2010\Projects\ProyectoKarenB\ProyectoKarenB\bin\Debug\ProyectoKarenB.pdb
+C:\Users\JHOPAN\Documents\Visual Studio 2010\Projects\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JHOPAN\Documents\Visual Studio 2010\Projects\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\JHOPAN\Documents\Visual Studio 2010\Projects\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JHOPAN\Documents\Visual Studio 2010\Projects\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JHOPAN\Documents\Visual Studio 2010\Projects\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JHOPAN\Documents\Visual Studio 2010\Projects\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ProyectoKarenB.exe
+C:\Users\JHOPAN\Documents\Visual Studio 2010\Projects\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ProyectoKarenB.pdb
+C:\Users\jdmarquez\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ProyectoKarenB.exe
+C:\Users\jdmarquez\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ProyectoKarenB.pdb
+C:\Users\jdmarquez\Desktop\ProyectoKarenB\ProyectoKarenB\bin\Debug\ProyectoKarenB.exe
+C:\Users\jdmarquez\Desktop\ProyectoKarenB\ProyectoKarenB\bin\Debug\ProyectoKarenB.pdb
+C:\Users\jdmarquez\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jdmarquez\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jdmarquez\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jdmarquez\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jdmarquez\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JHOPAN\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ProyectoKarenB.exe
+C:\Users\JHOPAN\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ProyectoKarenB.pdb
+C:\Users\JHOPAN\Desktop\ProyectoKarenB\ProyectoKarenB\bin\Debug\ProyectoKarenB.exe
+C:\Users\JHOPAN\Desktop\ProyectoKarenB\ProyectoKarenB\bin\Debug\ProyectoKarenB.pdb
+C:\Users\JHOPAN\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JHOPAN\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\JHOPAN\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JHOPAN\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JHOPAN\Desktop\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\info 2\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ProyectoKarenB.exe
+D:\info 2\ProyectoKarenB\ProyectoKarenB\obj\x86\Debug\ProyectoKarenB.pdb

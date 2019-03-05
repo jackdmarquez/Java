@@ -1,0 +1,18 @@
+c:\users\administrador\documents\visual studio 2012\Projects\ProyectoJuanReina\ProyectoJuanReina\bin\Debug\ProyectoJuanReina.exe.config
+c:\users\administrador\documents\visual studio 2012\Projects\ProyectoJuanReina\ProyectoJuanReina\bin\Debug\ProyectoJuanReina.exe
+c:\users\administrador\documents\visual studio 2012\Projects\ProyectoJuanReina\ProyectoJuanReina\bin\Debug\ProyectoJuanReina.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.Form1.resources
+c:\users\administrador\documents\visual studio 2012\Projects\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2012\Projects\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2012\Projects\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.exe
+c:\users\administrador\documents\visual studio 2012\Projects\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.pdb
+C:\Users\Jack\Desktop\ProyectoJuanReina\ProyectoJuanReina\bin\Debug\ProyectoJuanReina.exe.config
+C:\Users\Jack\Desktop\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.exe
+C:\Users\Jack\Desktop\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.pdb
+C:\Users\Jack\Desktop\ProyectoJuanReina\ProyectoJuanReina\bin\Debug\ProyectoJuanReina.exe
+C:\Users\Jack\Desktop\ProyectoJuanReina\ProyectoJuanReina\bin\Debug\ProyectoJuanReina.pdb
+C:\Users\Jack\Desktop\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.Form1.resources
+C:\Users\Jack\Desktop\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.Properties.Resources.resources
+C:\Users\Jack\Desktop\ProyectoJuanReina\ProyectoJuanReina\obj\Debug\ProyectoJuanReina.csproj.GenerateResource.Cache
